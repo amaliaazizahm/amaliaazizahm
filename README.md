@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, and Modelling
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me amaliaazizah160199@gmail.com
+- 📫 How to reach me amaliaazizah160199@gmail.com and linkedIn https://www.linkedin.com/in/amaliaam/
 
 <!---
 amaliaazizahm/amaliaazizahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
